@@ -18,7 +18,7 @@ const Like=()=>{
                         <img src="https://www.instagram.com/static/images/web/	logged_out_wordmark.png/7a252de00b20.png" height={30}></img>
                     </div>
                     <div className="col-md-3 my-3">
-                        <input type="" name="" placeholder="Вулкан" className="form-control"></input>
+                        <input type="" name="" placeholder="" className="form-control"></input>
                     </div>
                     <div className="col-md-1"></div>
                     <div className="col-md-3 my-3">
